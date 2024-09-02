@@ -1,0 +1,1 @@
+print("Hello World,\nMein Name ist Michel. Ich bin seit 2022 ausgelernter IT-Systemelektroniker\nund seit diesem Jahr Mai bei den Stadtwerken eingestellt.\nIch habe ein bisschen Programmiererfahrung in C#, mit Python eher weniger.")
