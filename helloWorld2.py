@@ -1,1 +1,5 @@
-print("Hello World,\nMein Name ist Michel. Ich bin seit 2022 ausgelernter IT-Systemelektroniker\nund seit diesem Jahr Mai bei den Stadtwerken eingestellt.\nIch habe ein bisschen Programmiererfahrung in C#, mit Python eher weniger.")
+print("Hello World,\n")
+print("Mein Name ist Michel Marson.\n")
+print("Arbeitsleben:\nIch bin seit 2022 ausgelernter IT-Systemelektroniker\nund bin seit diesem Jahr im Mai bei den Stadtwerken eingestellt.\n")
+print("Programmieren:\nIch habe ein bisschen Programmiererfahrung in C#, mit Python eher weniger.\n")
+print("Hobbys:\n- Spazieren\n- Lesen\n- PC Spiele\n- Spiele programmieren")
